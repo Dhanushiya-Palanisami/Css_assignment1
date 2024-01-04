@@ -1,0 +1,39 @@
+body {
+    .h1{
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
+
+.login {
+    width: 18%;
+    height: 64vh;
+    text-align: center;
+    margin: 60px auto;
+    
+}
+
+.login .input-box {
+    padding: 14px 48px;
+    border-radius: 9px;
+    margin-bottom: 6px;
+    border: 1px solid #DCDDE1;
+}
+
+.login .btn {
+    padding: 17px 36px;
+    font-size: 90%;
+    border-radius: 52px;
+    width: 71%;
+    color: #fff;
+    border: none;
+    background: black;
+    cursor: pointer;
+    /* margin-bottom: 35px; */
+    margin-top: 37px;
+}
+
+
+.login .heading {
+    font-size: xxx-large;
+    font-family: emoji;
+}

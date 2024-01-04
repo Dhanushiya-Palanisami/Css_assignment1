@@ -1,0 +1,35 @@
+body {}
+
+.card {
+    border: 2px solid #DCDDE1;
+    width: 21vw;
+    height: 42vh;
+    margin: 60px auto;
+    padding: 16px 20px;
+    border-radius: 15px;
+}
+
+.card .img1 {
+    width: 20%;
+    border-radius: 55%;
+    margin-right: 20%;
+}
+
+.card .img2 {
+    width: 20%;
+    border-radius: 55%;
+    
+}
+
+.card .foot {
+    border-top: 2px solid #DCDDE1;
+    margin-top: 18%;
+    width: 21vw;
+    box-sizing: border-box;
+}
+
+.line{
+    border-top: 1px solid lightgray;
+    color: #1C73E8;
+    
+}
